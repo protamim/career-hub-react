@@ -1,0 +1,114 @@
+[
+    {
+      "id": 1,
+      "job_title": "Software Engineer",
+      "job_description": "Develop and maintain software applications using cutting-edge technologies.",
+      "job_type": "Full-time",
+      "remote_or_onsite": "Remote",
+      "company_name": "Tech Innovators Inc.",
+      "job_category": "Information Technology (IT)",
+      "job_volume": 50,
+      "logo": "https://i.ibb.co/f2Krm9R/logo-concept-illustration-vector-template-460848-9763.jpg"
+    },
+    {
+      "id": 2,
+      "job_title": "Graphic Designer",
+      "job_description": "Create visually appealing graphics and designs for marketing materials.",
+      "job_type": "Contract",
+      "remote_or_onsite": "Remote",
+      "company_name": "Creative Designs Co.",
+      "job_category": "Creative and Design",
+      "job_volume": 20,
+      "logo": "https://i.ibb.co/pxSXq2g/minimal-agency-logo-design-with-two-color-white-background-premium-vector-729473-43.jpg"
+    },
+    {
+      "id": 3,
+      "job_title": "Marketing Manager",
+      "job_description": "Develop and execute marketing strategies to drive product awareness.",
+      "job_type": "Full-time",
+      "remote_or_onsite": "Onsite",
+      "company_name": "Marketing Masters Ltd.",
+      "job_category": "Marketing and Sales",
+      "job_volume": 40,
+      "logo": "https://i.ibb.co/zrWYS6t/logo-with-curly-arrow-1043-146.jpg"
+    },
+    {
+      "id": 4,
+      "job_title": "Customer Support Specialist",
+      "job_description": "Assist customers with inquiries and provide exceptional support.",
+      "job_type": "Full-time",
+      "remote_or_onsite": "Remote",
+      "company_name": "CustomerCare Solutions",
+      "job_category": "Customer Support",
+      "job_volume": 25,
+      "logo": "https://i.ibb.co/b3KksB8/company-logo-abstract-style-23-2147516166.jpg"
+    },
+    {
+      "id": 5,
+      "job_title": "Financial Analyst",
+      "job_description": "Analyze financial data and prepare reports for budget planning.",
+      "job_type": "Full-time",
+      "remote_or_onsite": "Onsite",
+      "company_name": "Financial Insights Corp.",
+      "job_category": "Finance and Accounting",
+      "job_volume": 30,
+      "logo": "https://i.ibb.co/gtF1Nvj/tech-logotype-1043-9.jpg"
+    },
+    {
+      "id": 6,
+      "job_title": "UX/UI Designer",
+      "job_description": "Design user-friendly interfaces and improve user experiences.",
+      "job_type": "Contract",
+      "remote_or_onsite": "Remote",
+      "company_name": "UX Innovations Ltd.",
+      "job_category": "Creative and Design",
+      "job_volume": 15,
+      "logo": "https://i.ibb.co/CzSwtCP/connection-vector-logo-template-460848-8078.jpg"
+    },
+    {
+      "id": 7,
+      "job_title": "Project Manager",
+      "job_description": "Lead and oversee project teams to ensure successful project delivery.",
+      "job_type": "Full-time",
+      "remote_or_onsite": "Onsite",
+      "company_name": "Project Management Pros",
+      "job_category": "Management",
+      "job_volume": 35,
+      "logo": "https://i.ibb.co/HVWHw3s/lungs-logo-icon-design-412311-3669.jpg"
+    },
+    {
+      "id": 8,
+      "job_title": "Content Writer",
+      "job_description": "Create engaging and informative content for websites and marketing materials.",
+      "job_type": "Part-time",
+      "remote_or_onsite": "Remote",
+      "company_name": "Content Creations Inc.",
+      "job_category": "Creative and Design",
+      "job_volume": 20,
+      "logo": "https://i.ibb.co/xfBvWVW/hand-drawn-data-logo-template-23-2149204607.jpg"
+    },
+    {
+      "id": 9,
+      "job_title": "Sales Representative",
+      "job_description": "Identify and acquire new clients for our products and services.",
+      "job_type": "Full-time",
+      "remote_or_onsite": "Onsite",
+      "company_name": "SalesForce Solutions",
+      "job_category": "Marketing and Sales",
+      "job_volume": 45,
+      "logo": "https://i.ibb.co/3zrdh8F/counslting-branding-identity-corporate-vector-logo-design-460848-13847.jpg"
+    },
+    {
+      "id": 10,
+      "job_title": "Data Scientist",
+      "job_description": "Use data analysis and machine learning techniques to solve complex problems.",
+      "job_type": "Full-time",
+      "remote_or_onsite": "Remote",
+      "company_name": "Data Science Innovations",
+      "job_category": "Information Technology (IT)",
+      "job_volume": 55,
+      "logo": "https://i.ibb.co/PQ7WRfd/gradient-accounting-logo-template-23-2148867917.jpg"
+    }
+]
+     
+  
